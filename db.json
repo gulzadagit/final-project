@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "name": "Asus ROG STRIX G513Q",
+      "description": " В наличии ",
+      "price": "165 000",
+      "picture": "https://almurut.store/image/cache/catalog/laptop/asus-rog-strix-520x700.png",
+      "type": "ASUS",
+      "id": 1
+    },
+    {
+      "name": "Asus TUF Dash F15 FX516PE-HN001 ",
+      "description": "В наличии",
+      "price": "128 000",
+      "picture": "https://almurut.store/image/cache/catalog/laptop/Asus%20Tuf%20Dash/1-520x700.png",
+      "type": "ASUS",
+      "id": 2
+    },
+    {
+      "name": "Asus TUF Gaming F17 FX706HAsus ",
+      "description": "В наличии",
+      "price": "107 500 сом",
+      "picture": "https://almurut.store/image/cache/catalog/laptop/asus-tuf-360x426.png",
+      "type": "ASUS",
+      "id": 3
+    },
+    {
+      "name": "Lenovo Yoga Slim 7 15ITL05 ",
+      "description": "В наличии",
+      "price": "107 500 сом",
+      "picture": "https://almurut.store/image/cache/catalog/noutbuki/yoga_slim/yogaslim-740x1000.png",
+      "type": "LENOVO",
+      "id": 4
+    },
+    {
+      "name": "Lenovo Yoga Slim 7 15ITL05 ",
+      "description": "В наличии",
+      "price": "100 900 сом",
+      "picture": "https://almurut.store/image/cache/catalog/noutbuki/yoga_slim/yogaslim2-740x1000.png",
+      "type": "LENOVO",
+      "id": 5
+    },
+    {
+      "name": "Lenovo Legion Y540 Black 93 500 сом",
+      "description": "В наличии",
+      "price": "93 500 сом",
+      "picture": "https://almurut.store/image/cache/catalog/laptop/Lenovo-Legion-Y540-Black-740x1000.png",
+      "type": "LENOVO",
+      "id": 6
+    },
+    {
+      "name": "HP OMEN 15 138 000 сом",
+      "description": "В наличии",
+      "price": null,
+      "picture": "https://almurut.store/image/cache/catalog/laptop/HP%20Omen%2015/1-740x1000.png",
+      "type": "HP",
+      "id": 7
+    },
+    {
+      "name": "HP Envy X360 convertible 15-eu0004ur 97 000 сом",
+      "description": "В наличии",
+      "price": null,
+      "picture": "https://almurut.store/image/cache/catalog/laptop/HP%20Envy%2015/1-360x426.png",
+      "type": "HP",
+      "id": 8
+    },
+    {
+      "name": "Hp pavilion 15-eh1046ur 65 000 сом",
+      "description": "В наличии",
+      "price": 0,
+      "picture": "https://almurut.store/image/cache/catalog/laptop/HP%2015/2-360x426.png",
+      "type": "HP",
+      "id": 9
+    }
+  ]
+}
